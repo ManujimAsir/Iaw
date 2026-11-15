@@ -1,0 +1,18 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Configuración sensible (si algún día añades BD)
+config.php
+.env
+*.sql
+
+# Carpetas de dependencias (futuro)
+vendor/
+node_modules/
